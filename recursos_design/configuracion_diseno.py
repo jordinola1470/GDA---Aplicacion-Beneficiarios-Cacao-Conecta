@@ -42,6 +42,7 @@ data_frameLabels = ['MUNICIPIO', 'ZONA', 'VEREDA', 'ASOCIACIÓN', 'NOMBRES',
                     'PRIMER APELLIDO', 'SEGUNDO APELLIDO', 'N° CEDULA', 'EDAD', 'GENERO ',
                     'ETNIA', 'VICTIMA ', 'COMPONENTE', 'RANGO EDAD', 'C1_Productivo',
                     'C2_Genero', 'C2_Jovenes', 'C3_Digitales', 'C3_Institucional']
+
 sql_frameLabels  = ['MUNICIPIO', 
                 'ZONA', 
                 'VEREDA', 
